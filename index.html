@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自我介绍</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f5f5 0%, #eaeaea 100%);
+            margin: 0;
+            padding: 30px 0;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0 auto;
+            max-width: 900px;
+            padding: 0 20px;
+        }
+        .header, .content {
+            width: 100%;
+            max-width: 800px;
+            border: 1px solid #333333;
+            margin-bottom: 25px;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+            border-radius: 6px;
+            position: relative;
+        }
+        .header::before, .content::before {
+            content: '';
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            border: 1px dashed #ddd;
+            border-radius: 3px;
+            pointer-events: none;
+        }
+        .header {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 25px 20px;
+        }
+        .profile-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 15px;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            background-color: #fafafa;
+            width: 40%;
+        }
+        .navigation {
+            flex-grow: 1;
+            margin-left: 30px;
+        }
+        .navigation ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .navigation ul li {
+            margin: 12px 0;
+        }
+        .navigation ul li a {
+            color: #333;
+            text-decoration: none;
+            transition: color 0.3s, border-bottom 0.3s;
+            padding-bottom: 2px;
+            border-bottom: 1px solid transparent;
+            cursor: pointer;
+        }
+        .navigation ul li a:hover {
+            color: #666;
+            border-bottom: 1px solid #666;
+        }
+        .navigation ul li a.active {
+            color: #000;
+            font-weight: 500;
+            border-bottom: 1px solid #333;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: 600;
+            text-align: center;
+            padding: 10px 0;
+            border-bottom: 2px solid #333;
+            width: 100%;
+            max-width: 800px;
+        }
+        .content-section {
+            line-height: 1.6;
+            display: none;
+            padding: 20px;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            background-color: #fafafa;
+        }
+        .content-section.active {
+            display: block;
+        }
+        .skills-radar-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        #skillsRadar {
+            border: 1px solid #333333;
+            background-color: #fffdf0;
+            border-radius: 4px;
+        }
+        .project {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            background-color: white;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .project:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+        }
+        .project h4 {
+            margin-top: 0;
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        .tech-stack {
+            font-size: 0.9em;
+            color: #666;
+            margin: 5px 0;
+            padding: 5px;
+            background-color: #f5f5f5;
+            border-radius: 3px;
+        }
+        .contact-item {
+            margin: 15px 0;
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .contact-icon {
+            width: 24px;
+            height: 24px;
+            background-color: #fff9c4;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+        .contact-info a {
+            color: #333;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        .contact-form {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .form-group textarea {
+            height: 120px;
+            resize: vertical;
+        }
+        .btn-submit {
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .btn-submit:hover {
+            background-color: #555;
+        }
+        .about-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        .about-section h3 {
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+            margin-top: 0;
+        }
+        .home-content {
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="page-title">首页</h1>
+        <div class="header">
+            <div class="profile-info">
+                <!-- 头像图片 -->
+                <img src="https://i.imgur.com/6eXZ7QH.png" alt="个人头像" style="height: 60px; width: 60px; border-radius: 4px; margin-bottom: 10px;">
+                <p>Id: 0625</p>
+                <p>计算机科学与技术专业大二学生</p>
+            </div>
+            <div class="profile-info">
+                <p>院校: sdnu</p>
+                <p>GPA: 3.5/5.0</p>
+            </div>
+        </div>
+        <div class="content">
+            <div style="display: flex;">
+                <div class="navigation">
+                    <ul>
+                        <li><a href="#home" class="nav-link active">首页</a></li>
+                        <li><a href="#about" class="nav-link">关于我</a></li>
+                        <li><a href="#projects" class="nav-link">项目集</a></li>
+                        <li><a href="#contact" class="nav-link">联系方式</a></li>
+                    </ul>
+                </div>
+                <div style="flex-grow: 1; margin-left: 30px;">
+                    <!-- 首页内容 -->
+                    <div id="home" class="content-section active">
+                        <div class="home-content">
+                            <p>欢迎访问我的个人介绍页面，这里展示了我的基本信息、技能特长、项目经验和联系方式。</p>
+                            <p>我是一名计算机科学与技术专业的大二学生，对编程和软件开发充满热情，正在不断学习和提升自己的技术能力。</p>
+                        </div>
+                        <div class="skills-radar-container">
+                            <p>技能雷达图</p>
+                            <!-- 技能雷达图Canvas -->
+                            <canvas id="skillsRadar" width="200" height="200"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- 关于我内容 -->
+                    <div id="about" class="content-section">
+                        <div class="about-section">
+                            <h3>个人简介</h3>
+                            <p>我是一名计算机科学与技术专业的大二学生，对编程和软件开发有着浓厚的兴趣。擅长快速学习新技术，并将其应用到实际项目中。</p>
+                        </div>
+                        <div class="about-section">
+                            <h3>教育背景</h3>
+                            <p><strong>sdnu 计算机科学与技术专业</strong> | 2023-至今</p>
+                            <p>主要课程：数据结构、计算机网络、操作系统、编程语言（Java, Python, C）等</p>
+                            <p>GPA：3.5/5.0</p>
+                        </div>
+                        <div class="about-section">
+                            <h3>我的爱好</h3>
+                            <p>编程、阅读、篮球、旅行</p>
+                        </div>
+                        <div class="about-section">
+                            <h3>职业目标</h3>
+                            <p>成为一名优秀的软件工程师，专注于后端开发或人工智能领域，创造有价值的技术产品。</p>
+                        </div>
+                    </div>
+
+                    <!-- 项目集内容 -->
+                    <div id="projects" class="content-section">
+                        <div class="project">
+                            <h4>图书管理系统</h4>
+                            <div class="tech-stack">技术栈：Java, MySQL, Swing</div>
+                            <p>一个基于Java的桌面应用程序，实现了图书的增删改查、借阅归还、用户管理等功能，采用MVC设计模式。</p>
+                        </div>
+                        <div class="project">
+                            <h4>个人博客网站</h4>
+                            <div class="tech-stack">技术栈：Python, Django, HTML, CSS, JavaScript</div>
+                            <p>使用Django框架开发的个人博客系统，支持文章发布、评论、分类、标签等功能，具有响应式设计。</p>
+                        </div>
+                        <div class="project">
+                            <h4>校园导航小程序</h4>
+                            <div class="tech-stack">技术栈：微信小程序, 高德地图API</div>
+                            <p>为新生设计的校园导航小程序，包含校园地图、建筑介绍、路线规划等功能，帮助新生快速熟悉校园环境。</p>
+                        </div>
+                    </div>
+
+                    <!-- 联系方式内容 -->
+                    <div id="contact" class="content-section">
+                        <h3>与我联系</h3>
+                        <p>如果你有任何问题或合作意向，欢迎通过以下方式联系我：</p>
+                        <div class="contact-item">
+                            <div class="contact-icon">📧</div>
+                            <div class="contact-info">
+                                <strong>邮箱：</strong>
+                                <a href="mailto:student@example.com">student@example.com</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">📱</div>
+                            <div class="contact-info">
+                                <strong>电话：</strong>
+                                <a href="tel:+86123456789">123-456-789</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">🔗</div>
+                            <div class="contact-info">
+                                <strong>GitHub：</strong>
+                                <a href="https://github.com" target="_blank">github.com/username</a>
+                            </div>
+                        </div>
+                        <div class="contact-form">
+                            <h4>发送消息</h4>
+                            <form>
+                                <div class="form-group">
+                                    <label for="name">姓名</label>
+                                    <input type="text" id="name" name="name" placeholder="你的姓名">
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">邮箱</label>
+                                    <input type="email" id="email" name="email" placeholder="你的邮箱">
+                                </div>
+                                <div class="form-group">
+                                    <label for="message">消息</label>
+                                    <textarea id="message" name="message" placeholder="请输入你的消息..."></textarea>
+                                </div>
+                                <button type="submit" class="btn-submit">发送</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 雷达图绘制函数
+        function drawRadarChart() {
+            const canvas = document.getElementById('skillsRadar');
+            const ctx = canvas.getContext('2d');
+            const skills = ['Java', 'Python', 'C', 'C++'];
+            const values = [85, 75, 80, 70]; // 技能熟练度（0-100）
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            const radius = 80; // 雷达图半径
+
+            // 清除画布
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // 绘制网格环
+            ctx.strokeStyle = '#ddd';
+            ctx.lineWidth = 1;
+            for (let i = 1; i <= 4; i++) {
+                const r = radius * i / 4;
+                ctx.beginPath();
+                ctx.arc(centerX, centerY, r, 0, 2 * Math.PI);
+                ctx.stroke();
+            }
+
+            // 绘制坐标轴与技能标签
+            ctx.strokeStyle = '#333';
+            for (let i = 0; i < skills.length; i++) {
+                const angle = (Math.PI * 2 / skills.length) * i;
+                const x = centerX + radius * Math.cos(angle);
+                const y = centerY + radius * Math.sin(angle);
+                ctx.beginPath();
+                ctx.moveTo(centerX, centerY);
+                ctx.lineTo(x, y);
+                ctx.stroke();
+
+                // 绘制技能标签
+                ctx.fillStyle = '#333';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                const labelX = centerX + (radius + 10) * Math.cos(angle);
+                const labelY = centerY + (radius + 10) * Math.sin(angle);
+                ctx.fillText(skills[i], labelX, labelY);
+            }
+
+            // 绘制技能数据区域
+            ctx.fillStyle = 'rgba(255, 249, 196, 0.6)'; // 淡黄色半透明填充
+            ctx.beginPath();
+            for (let i = 0; i < skills.length; i++) {
+                const angle = (Math.PI * 2 / skills.length) * i;
+                const value = values[i] / 100;
+                const x = centerX + radius * value * Math.cos(angle);
+                const y = centerY + radius * value * Math.sin(angle);
+                if (i === 0) {
+                    ctx.moveTo(x, y);
+                } else {
+                    ctx.lineTo(x, y);
+                }
+            }
+            ctx.closePath();
+            ctx.fill();
+            ctx.strokeStyle = '#333';
+            ctx.stroke(); // 描边数据区域
+        }
+
+        // 页面加载时绘制雷达图
+        window.addEventListener('load', drawRadarChart);
+
+        // 导航切换逻辑
+        const navLinks = document.querySelectorAll('.nav-link');
+        const contentSections = document.querySelectorAll('.content-section');
+        const pageTitle = document.getElementById('page-title');
+        
+        navLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                
+                navLinks.forEach(l => l.classList.remove('active'));
+                this.classList.add('active');
+                
+                contentSections.forEach(section => {
+                    section.classList.remove('active');
+                    if (section.id === targetId) {
+                        section.classList.add('active');
+                        pageTitle.textContent = this.textContent;
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
