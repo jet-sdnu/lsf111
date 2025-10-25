@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="120;url=https://www.sdnu.edu.cn/">
+    <title>刘善福_0625_job2</title>
+</head>
+<body>
+    题目一：
+
+    <h1>1. 沃尔玛 (Walmart) 美国6120亿美元行业零售</h1>
+    <h2>2. 亚马逊 (Amazon) 美国5210亿美元行业电商与科技</h2>
+    <h3>3. 国家电网 (State Grid)中国4870亿美元行业公用事业</h3>
+    <h4>4. 沙特阿美 (Saudi Aramco)沙特阿拉伯 4030亿美元行业石油能源</h4>
+    <h5>5. 中国石化 (Sinopec)中国4010亿美元 行业石化能源</h5>
+    <h6>6. 中国石油 (CNPC) 中国3950亿美元行业石化能源</h6>
+     题目二：
+    <!-- 6像素、颜色设置为“蒂芙尼蓝”（#81D8D0）、仿宋，三个作者都是“隶书”、像素大小为“5”、颜色设置为“爱马仕橙”（#EC8136），正文部分为“楷体”、像素大小为5、颜色为“卡地亚红”（#AE2423）。 -->
+    <div class="poem">
+        <pre><font size="6" color="#81D8D0">
+《望岳》</font>
+            <font size="5" face="隶书" color="#EC8136">
+   杜甫</font>
+            <font size="5" face="楷体" color="#AE2423">
+岱宗夫如何？齐鲁青未了。
+岱宗夫如何？齐鲁青未了。
+造化钟神秀，阴阳割昏晓。
+荡胸生曾云，决眦入归鸟。
+会当凌绝顶，一览众山小。</font></pre>
+    </div>
+ 
+
+    <div class="poem">
+        <pre><font size="6" color="#81D8D0">
+《水调歌头·明月几时有》</font>
+            <font size="5" face="隶书"color="#EC8136">
+   苏轼</font>
+            <font size="5" face="楷体" color="#AE2423">
+明月几时有？把酒问青天。
+不知天上宫阙，今夕是何年。
+我欲乘风归去，又恐琼楼玉宇，
+高处不胜寒。
+起舞弄清影，何似在人间。
+转朱阁，低绮户，照无眠。
+不应有恨，何事长向别时圆？
+人有悲欢离合，月有阴晴圆缺，
+此事古难全。
+但愿人长久，千里共婵娟。</font></pre>
+    </div>
+    
+
+    <div class="poem">
+        <pre><font size="6" color="#81D8D0">
+《江城子·密州出猎》</font>
+            <font size="5" face="隶书" color="#EC8136">
+   苏轼</font>
+            <font size="5" face="楷体" color="#AE2423">
+老夫聊发少年狂，左牵黄，右擎苍，
+锦帽貂裘，千骑卷平冈。
+为报倾城随太守，亲射虎，看孙郎。
+老夫聊发少年狂，左牵黄，右擎苍，
+锦帽貂裘，千骑卷平冈。
+为报倾城随太守，亲射虎，看孙郎。
+酒酣胸胆尚开张。鬓微霜，又何妨！
+持节云中，何日遣冯唐？
+会挽雕弓如满月，西北望，射天狼。</font></pre>
+    </div>
+
+
+    <font size="4" color="#000000">
+        题目三：
+
+        秋天丰收的食物    
+    <h3>水果</h3>
+    <ul style="list-style-type: square;">
+        <li>苹果</li>
+        <li>梨</li>
+        <li>葡萄</li>
+        <li>柿子</li>
+        <li>石榴</li>
+        <li>山楂</li>
+        <li>橘子</li>
+        <li>柚子</li>
+    </ul>
+    
+    <h3>蔬菜</h3>
+    <ul style="list-style-type: square;">
+        <li>白菜</li>
+        <li>萝卜</li>
+        <li>土豆</li>
+        <li>红薯</li>
+        <li>莲藕</li>
+        <li>冬瓜</li>
+        <li>南瓜</li>
+        <li>芋头</li>
+    </ul>
+    
+    <h3>荤类</h3>
+    <ul style="list-style-type: circle;">
+        <li>螃蟹</li>
+        <li>虾</li>
+        <li>鱼</li>
+        <li>鸭</li>
+        <li>鹅</li>
+        <li>羊肉</li>
+        <li>牛肉</li>
+        <li>猪肉</li>
+    </ul>
+
+    题目四
+
+    <ol>
+        <!-- 欧美系（数字） -->
+        <li>
+            欧美系
+            <ol>
+                <li>Rolls‑Royce Phantom</li>
+                <li>Bentley Continental GT</li>
+                <li>Aston Martin DB11</li>
+                <li>Mercedes‑Maybach S‑Class</li>
+                <li>Lamborghini Huracán</li>
+                <li>Porsche 911 Turbo S</li>
+                <li>BMW M8 Competition</li>
+                <li>Audi R8 V10</li>
+            </ol>
+        </li>
+    
+        <!-- 日韩系（大写字母） -->
+        <li>
+            日韩系
+            <ol type="A">
+                <li>Acura NSX</li>
+                <li>Nissan GT‑R NISMO</li>
+                <li>Lexus LC 500</li>
+                <li>Toyota Land Cruiser 300</li>
+                <li>Genesis G90</li>
+                <li>Lexus LS 500 / LS 500h</li>
+                <li>Infiniti QX80</li>
+                <li>Kia K900 (K9)</li>
+            </ol>
+        </li>
+    
+        <!-- 国产（大写罗马字母） -->
+        <li>
+            国产
+            <ol type="I">
+                <li>红旗 L5</li>
+                <li>NIO EP9（限量超跑）</li>
+                <li>理想 L9</li>
+                <li>NIO ET7</li>
+                <li>Zeekr 001 GT</li>
+                <li>比亚迪 汉 DM‑p</li>
+                <li>小鹏 P7</li>
+                <li>红旗 H9 / 广汽传祺 GA8（价格区间低于上述车型）</li>
+            </ol>
+        </li>
+    </ol>
+</font>
+</body>
+</html>
