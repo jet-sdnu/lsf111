@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)https://yiyan.baidu.com/chat/Njc0NTgwNDgzNzo1MDc4NDAyNzk1 -->
+<html lang="zh-CN" style="--eb-loading-dark: #333333; --eb-loading-light: #999999; font-size: 100px; --vh: 730px;" data-dpr="1" data-theme="light"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid:not(.vjs-audio-only-mode) {
+        padding-top: 56.25%
+      }
+    </style><script src="./长笛社演奏_files/hm.js.下载"></script><script>Object.defineProperty(window, 'MutationObserver', {
+                writable: false,
+                configurable: false
+            })</script><meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no,viewport-fit=cover"><title>文心一言</title><meta name="description" content="文心一言既是你的智能伙伴，可以陪你聊天、回答问题、画图识图；也是你的AI助手，可以提供灵感、撰写文案、阅读文档、智能翻译，帮你高效完成工作和学习任务。"><meta name="keywords" content="文小言,言小文,一言,文心,AI,AI大模型,AI写作,AI搜索,AI文档,文档处理,搜索,快速搜索,人工智能,智能大模型,自然语言处理,机器学习,自动化写作,智能写作助手,AI 文本生成,文本分析,智能搜索,个性化搜索,语义搜索,文档自动化,智能文档管理,文档协作,文本编辑器,实时文档处理,文档生成工具,内容创作工具,快速信息检索,高效文档整理,智能写作平台,AI内容优化,自动化内容创作,智能摘要生成,AI写作工具,语义分析,自然语言生成,智能助手,AI内容分析,AI文档处理,智能文档编辑,内容生成引擎,自动化编辑,AI翻译工具,内容润色,多模态交互,语义理解,生成式对话,对话式搜索,信息整合,知识增强,内容转化,神经网络,智能体,大模型,生态构建,文本创作,跨语言理解,语义关系,应用场景,文本处理,定制化,无监督学习,预训练,大语言模型,AI翻译,语义识别,生成式人工智能,AI助手,快速写作,AI办公,机器学习,图像识别,人机交互,通用大模型,数据处理,模型训练,图像生成,AI问答,文生视频,语义理解,机器翻译,信息检索,神经网络,AI识别,AI教育,AI画图,AI翻译,智能问答,智能提取内容,AI文档生成,AI文档理解,智能图像识别,AI语音合成,AI搜索优化,内容优化,AI数据标注,智能行业分析,AI风险评估,文档优化,AI降重,论文降重,AI交互,图表设计,文档归纳,智能查询,查询,问答,智能写作,智能扩写,AI文章解读"><meta name="baidu-site-verification" content="code-tVTqFRzvuU"><meta name="screen-orientation" content="portrait"><script src="./长笛社演奏_files/uni_login_wrapper.js.下载"></script><script src="./长笛社演奏_files/mkd_v2.js.下载"></script><style>.passMod_puzzle-wrapper {
+  position: relative;
+  width: 290px;
+}
+.passMod_puzzle-tip {
+  height: 28px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1F1F1F;
+}.darkmode .passMod_puzzle-tip{ color: rgba(255, 255, 255, .8)}
+.passMod_puzzle-msg {
+  font-size: 14px;
+  color: red;
+}
+.passMod_puzzle-context {
+  position: relative;
+  margin-top: 16px;
+  height: 160px;
+}
+.passMod_puzzle-background {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+}
+.passMod_puzzle-block {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-height: 100%;
+}
+.passMod_puzzle-blockv2 {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 160px;
+  width: 52px;
+  background-size: 342px 160px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+.passMod_puzzle-backgroundv2 {
+  display: block;
+  width: 290px;
+  height: 160px;
+  background-size: 342px 160px;
+  background-position: -52px 0;
+  background-repeat: no-repeat;
+}
+.passMod_puzzle-footer {
+  padding-top: 18px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.passMod_puzzle .show {
+  opacity: 1;
+}</style><style>.passMod_select-wrapper {
+  position: relative;
+  width: 290px;
+}
+.passMod_select-tip {
+  display: inline-block;
+  margin-top: 4px;
+  height: 34px;
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: text-bottom;
+}
+.passMod_select-tip p {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+.passMod_select-tip-bg {
+  height: 24px;
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: text-bottom;
+}
+.passMod_select-tip-bgv2 {
+  display: inline-block;
+  width: 104px;
+  height: 24px;
+  vertical-align: text-bottom;
+  background-size: 234px 154px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+.passMod_select-msg {
+  font-size: 14px;
+  color: red;
+}
+.passMod_select-context {
+  position: relative;
+  height: 160px;
+  margin-top: 16px;
+  overflow: hidden;
+}
+.passMod_select-background {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+}
+.passMod_select-backgroundv2 {
+  display: block;
+  width: 290px;
+  height: 160px;
+  background-size: 290px 191px;
+  background-position: 0 -30px;
+  background-repeat: no-repeat;
+}
+.passMod_select-block {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border: black 1px solid;
+}
+.passMod_select-interactive {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  user-select: none;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.passMod_select-footer {
+  padding-top: 18px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.passMod_select .show {
+  opacity: 1;
+}
+.passMod_interactive-dot {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  color: #fff;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(78, 110, 242, 0.7);
+  border: rgba(255, 255, 255, 0.8) 4px solid;
+}
+</style><style>.passMod_qrcode-wrapper {
+  position: relative;
+  width: 290px;
+}
+.passMod_qrcode-tip {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: text-bottom;
+}
+.passMod_qrcode-tip p {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+.passMod_qrcode-tip-bg {
+  max-height: 24px;
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: text-bottom;
+}
+.passMod_qrcode-context-wrap {
+  position: relative;
+  margin-top: 40px;
+}
+.passMod_qrcode-context {
+  position: relative;
+  width: 188px;
+  height: 188px;
+  margin: 0 auto;
+  padding: 13px;
+  box-sizing: border-box;
+  border: rgba(133, 133, 133, 0.3) 1px solid;
+  overflow: hidden;
+}
+.passMod_qrcode-background {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.passMod_qrcode-errorMessage {
+  padding-top: 10px;
+  height: 16px;
+  color: red;
+  font-size: 16px;
+  text-align: center;
+}
+.passMod_qrcode-footer {
+  padding-top: 18px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.passMod_qrcode .show {
+  opacity: 1;
+}
+</style><style>.passMod_spin-wrapper {
+  position: relative;
+  width: 290px;
+}
+.passMod_spin-tip {
+  height: 28px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1F1F1F;
+}.darkmode .passMod_spin-tip{ color: rgba(255, 255, 255, .8)}
+.passMod_spin-msg {
+  font-size: 14px;
+  color: red;
+}
+.passMod_spin-context-wrap {
+  position: relative;
+  margin-top: 16px;
+}
+.passMod_spin-context {
+  position: relative;
+  width: 152px;
+  height: 152px;
+  border-radius: 76px;
+  margin: auto;
+  overflow: hidden;
+}
+.passMod_spin-background {
+  display: block;
+  width: 152px;
+  height: 152px;
+}
+.passMod_spin-coordinate {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  width: 152px;
+  height: 152px;
+  z-index: -1;
+}
+.passMod_spin-AI {
+  position: absolute;
+  bottom: 11px;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 11px;
+  line-height: 11px;
+  color: white;
+  opacity: 0.5;
+}
+.passMod_spin-footer {
+  padding-top: 30px;
+  height: 84px;
+  box-sizing: border-box;
+}
+.passMod_spin .show {
+  opacity: 1;
+}</style><link rel="shortcut icon" href="https://eb-static.cdn.bcebos.com/logo/favicon.ico" type="image/ico"><link rel="manifest" crossorigin="use-credentials" href="https://yiyan.baidu.com/manifest.json"><style>@keyframes initialDotPulse {
+                0% {
+                    box-shadow: -16px 20px 0 -5px var(--eb-loading-dark), 0px 20px 0 0 var(--eb-loading-light), 16px 20px 0 2px var(--eb-loading-dark);
+                }
+                25% {
+                    box-shadow: -16px 20px 0 0 var(--eb-loading-dark), 0px 20px 0 2px var(--eb-loading-light), 16px 20px 0 0 var(--eb-loading-dark);
+                }
+                50% {
+                    box-shadow: -16px 20px 0 2px var(--eb-loading-dark), 0px 20px 0 0 var(--eb-loading-light), 16px 20px 0 -5px var(--eb-loading-dark);
+                }
+                75% {
+                    box-shadow: -16px 20px 0 0 var(--eb-loading-dark), 0px 20px 0 -5px var(--eb-loading-light), 16px 20px 0 0 var(--eb-loading-dark);
+                }
+                100% {
+                    box-shadow: -16px 20px 0 -5px var(--eb-loading-dark), 0px 20px 0 0 var(--eb-loading-light), 16px 20px 0 2px var(--eb-loading-dark);
+                }
+            }
+            .eb-initial-loading {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: fixed;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                overflow: hidden;
+            }
+            .eb-initial-loading::after {
+                content: '';
+                position: absolute;
+                top: calc(50% - 20px);
+                left: 50%;
+                width: 10px;
+                height: 10px;
+                border-radius: 5px;
+                transform: translateX(-50%) translateY(-50%);
+                animation: initialDotPulse 1.5s infinite linear;
+            }</style><script>document.documentElement.style.setProperty('--eb-loading-dark', '#333333');
+            document.documentElement.style.setProperty('--eb-loading-light', '#999999');</script><script defer="defer" src="./长笛社演奏_files/runtime.867c601e.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-antd.3f862fe4.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-core.cef2924f.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-video.9e5a5d5e.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-echarts.3386ccf9.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__mdast-util-to-markdown.7e8d3454.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-f166f706.a907b8e7.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-f3317dae.166ffde2.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-a81a7d65.e92b4b56.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-ba3be5d7.bc6dda82.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-0ff0ca8f.867553e0.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-b664c5f5.eb0eb89b.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-69bdd742.5cecdc32.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-1b8f8385.5976dead.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__refractor-e285d811.336052d6.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__antd-mobile.86985c01.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__baidu-yiyan-components-d034495c.c4d0b695.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__baidu-yiyan-components-f39d6eea.574d9348.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__crypto-js-97c0b991.1f98d0c6.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__crypto-js-efdcf248.8379a896.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__ant-design-icons.6fb4335d.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__babel-runtime.a32086df.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-util.a62ac1ab.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__swiper-53f2243b.6e616a1c.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__swiper-35120423.51b6fcdb.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__ant-design-icons-svg.9dc7ad3b.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__mdast-util-to-hast.9c922cbf.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-select.cfdf2de0.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__lexical-react.bfef0895.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-menu.b6452fa0.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__micromark-core-commonmark.86f2b7bb.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__hastscriptSix.84527cf5.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__baidu-weirwood-error.0fc949cf.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__property-information.878143ad.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-virtual-list.e783bb8b.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-field-form.668caa1a.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__prismjs.9e326676.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-tabs.06af0296.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__parse5-9fc3530c.b548ffe7.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__parse5-2690179d.64baf9cd.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__parse5-0764acdc.b714827c.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rc-slider.93e72f20.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__videojs-vhs-utils.c9c873e5.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__react-draggable.9317f9bd.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__xmldom-xmldom.39c4bb47.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__entities.f49f73c2.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__videojs-vtt.js.be7ad3e9.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__lexical.f3e3f130.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__modern-screenshot.79ab2e17.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__katex.bd6f6016.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__dompurify.7a206269.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__react-spring-core.9bc554ee.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__mpd-parser.f576f920.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__m3u8-parser.99dfcd1d.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__lottie-web.5512c475.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__howler.3f20fd34.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__fabric.a0450f44.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__rive-app-canvas.a5a3d8f6.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__remix-run-router.05b37ff5.js.下载"></script><script defer="defer" src="./长笛社演奏_files/npm-others__baidu-weirwood-perf.339d8f6e.js.下载"></script><script defer="defer" src="./长笛社演奏_files/4129.b90e009c.js.下载"></script><script defer="defer" src="./长笛社演奏_files/index.0c4f0647.js.下载"></script><link href="./长笛社演奏_files/npm-antd.fcb4f1dd.css" rel="stylesheet"><link href="./长笛社演奏_files/npm-video.5799b63d.css" rel="stylesheet"><link href="./长笛社演奏_files/npm-vendor.a26be5d6.css" rel="stylesheet"><link href="./长笛社演奏_files/index.0da34d3f.css" rel="stylesheet"><style>.passMod_dialog-wrapper {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  font-family: PingFang SC, Microsoft Yahei, Helvetica, sans-serif;
+}
+.passMod_dialog-wrapper p {
+  margin: 0;
+  border: 0;
+}
+.transition {
+  transition: 0.5s;
+}
+.passMod_verify-item + .passMod_verify-item {
+  margin-top: 30px;
+}
+.refresh-pos {
+  position: absolute;
+  right: 7px;
+  top: 7px;
+}
+.machine-show {
+  display: block!important;
+}
+.machine-hide {
+  display: none!important;
+}
+.message-error {
+  color: red!important;
+}
+</style><script type="text/javascript" charset="utf-8" src="./长笛社演奏_files/fingerprint.js.下载"></script><script type="text/javascript" charset="utf-8" src="./长笛社演奏_files/bundle.js.下载"></script><script type="text/javascript" charset="utf8" async="" src="./长笛社演奏_files/banti_b7c908beaf.js.下载"></script><script type="text/javascript" charset="utf8" async="" src="./长笛社演奏_files/acs-2118.js.下载"></script></head><body><script src="./长笛社演奏_files/bundle.u.php"></script><div id="root"><div class="WithSidebarLayout__n7Oo9dSd"><div class="sidebarContainerTransition__n9E3Safv sidebarContainerHideTransition__dwLuYq5g sidebarShawDown__r0x9BoeP"><div class="sidebarContainer__hEMMJLL1"><div class="sideBarTop__yoFRRijJ"><div class="sideBarHeader__nAmBjWCE"><div class="logoWrapper__Zew8aVqo"><img src="./长笛社演奏_files/lf4IKUMDOKWxUrTkV3nhV7.png" alt="logo" class="ErnieLogo__UHeOMA_N"></div><div class="hideSvgWrapper__ciOkasJM"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" class="isOpen__VYyT1BCI"><path d="M16.865 2.75H5.132a3.3 3.3 0 00-3.3 3.3v9.9a3.3 3.3 0 003.3 3.3h11.733a3.3 3.3 0 003.3-3.3v-9.9a3.3 3.3 0 00-3.3-3.3zM7.977 2.75v15.579" stroke="currentColor" stroke-width="1.54" stroke-linecap="round" stroke-linejoin="round"></path><path d="M15 8l-3 3 3 3" stroke="currentColor" stroke-width="1.54" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div><div class="newSession__hTMe5pm_"><div class="newSessionLeft__SPQJO7Ho"><img class="icon__Yweho1x0" src="./长笛社演奏_files/SidebarSession.4ab0a0af.png" alt=""><p class="text__QnWrxjjk">新对话</p></div><div class="shortcutKeyContainer__fXE8LFsW"><svg width="27" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" class="shortcutKeyIcon__HzbTpwVw"><rect x="0.5" y="0.5" width="26" height="15" rx="3.5" stroke="currentColor" stroke-opacity="0.18"></rect><path d="M22.003 3.5h.958v8.83h-.958V3.5zM20.132 5.89c.34 0 .63.048.861.145v.97a3.16 3.16 0 00-.934-.133c-.485 0-.897.206-1.225.643-.34.412-.497.91-.497 1.492v3.323h-.958V6.06h.958V7.15c.17-.364.388-.655.655-.861.327-.267.703-.4 1.14-.4zM14.74 4.034v2.025h1.554v.813H14.74v3.99c0 .231.036.4.133.498.085.097.243.158.461.158h.8v.812h-.945c-.51 0-.886-.133-1.104-.4-.206-.243-.303-.594-.303-1.067V6.872H12.52v-.813h1.262V4.434l.958-.4zM8.1 3.5c.958 0 1.77.255 2.426.764.655.51 1.043 1.201 1.164 2.062h-.958c-.121-.63-.437-1.116-.922-1.455-.473-.328-1.043-.486-1.722-.486-1.007 0-1.783.352-2.33 1.056-.509.655-.763 1.516-.763 2.595 0 1.08.242 1.941.752 2.572.533.667 1.297 1.007 2.316 1.007.692 0 1.274-.182 1.76-.546.508-.388.86-.959 1.03-1.71h.958c-.194 1.006-.643 1.795-1.358 2.353-.667.521-1.468.788-2.39.788-1.346 0-2.377-.449-3.093-1.334-.655-.8-.97-1.844-.97-3.13 0-1.285.327-2.34.995-3.165C5.722 3.949 6.765 3.5 8.1 3.5z" fill="currentColor" fill-opacity="0.4"></path></svg><svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" class="shortcutKeyIcon__HzbTpwVw"><rect x="0.5" y="0.5" width="15" height="15" rx="3.5" stroke="currentColor" stroke-opacity="0.18"></rect><path d="M10.374 3.5h1.349L7.65 7.357 12.29 12.5h-1.387l-3.97-4.475-1.4 1.324V12.5H4.5v-9h1.034v4.676l4.84-4.676z" fill="currentColor" opacity="0.4"></path></svg></div></div></div></div><div class="sidebarScroll__WexKjwvc"><div><div class="skillList__b6TR87Mj"><div><div class="skillItem__XRE9QM7g"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.8 1.955l-1.08 1.08-3.079 3.079-5.688 5.688a.066.066 0 00-.018.036l-.633 3.973a.065.065 0 00.074.075l4.038-.568a.066.066 0 00.037-.019l5.688-5.688 3.08-3.079 1.08-1.08a1.237 1.237 0 000-1.748l-1.75-1.75a1.237 1.237 0 00-1.749 0zM10.188 4.574l3.498 3.498M9.026 16.383l.959-.618a1.768 1.768 0 011.917 0 1.768 1.768 0 001.917 0 1.768 1.768 0 011.916 0l.959.618" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"></path></svg><span>创意写作</span></div></div><div><div class="skillItem__XRE9QM7g"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.805 7.8V3.48c0-.927.752-1.68 1.68-1.68h6.896a.24.24 0 01.167.068l3.574 3.462a.24.24 0 01.073.172v2.299m-12.39 4.8v1.92c0 .928.752 1.68 1.68 1.68h9.03a1.68 1.68 0 001.68-1.68V12.6" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"></path><path d="M10.502 1.934v3.9h3.9" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2.25 10.063h13.5" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"></path></svg><span>阅读分析</span></div></div><div class="skillItem__XRE9QM7g more__uunJL7vT"><div><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.848 9.442a.667.667 0 01.668.674v2.857c0 .698-.206 1.381-.591 1.962a3.514 3.514 0 01-1.574 1.3 3.488 3.488 0 01-3.822-.765 3.552 3.552 0 01-.762-3.849 3.53 3.53 0 011.294-1.585 3.492 3.492 0 011.948-.594h2.839zm5.145 0l.175.004c.866.044 1.688.41 2.305 1.03a3.543 3.543 0 010 4.994 3.497 3.497 0 01-4.96 0 3.543 3.543 0 01-1.027-2.497v-2.857a.667.667 0 01.668-.674h2.84zM5.01 10.791a2.165 2.165 0 00-2.006 1.347 2.195 2.195 0 00.47 2.377 2.166 2.166 0 003.34-.331 2.19 2.19 0 00.366-1.211V10.79h-2.17zm5.814 0v2.182c0 .43.127.852.365 1.21a2.162 2.162 0 003.34.331 2.187 2.187 0 00-.329-3.356 2.162 2.162 0 00-1.206-.367h-2.17zm-5.64-9.285a3.498 3.498 0 012.305 1.03 3.543 3.543 0 011.028 2.496V7.89a.667.667 0 01-.668.674h-2.84c-.929 0-1.82-.372-2.479-1.034a3.543 3.543 0 010-4.994 3.497 3.497 0 012.48-1.033l.174.004zm6.468.265a3.488 3.488 0 013.822.764 3.541 3.541 0 01.76 3.849 3.528 3.528 0 01-1.292 1.585 3.492 3.492 0 01-1.948.593h-2.839a.667.667 0 01-.668-.673V5.032c0-.698.206-1.381.591-1.962a3.513 3.513 0 011.574-1.3zM5.84 3.018a2.162 2.162 0 00-2.365.472 2.188 2.188 0 00.328 3.357c.357.24.777.367 1.207.367h2.17V5.032c0-.43-.127-.852-.366-1.21a2.175 2.175 0 00-.974-.804zm7.578-.124a2.162 2.162 0 00-2.229.927 2.19 2.19 0 00-.365 1.211v2.182h2.17A2.163 2.163 0 0015 5.867a2.195 2.195 0 00-.47-2.377 2.167 2.167 0 00-1.112-.596z" fill="currentColor"></path></svg><span>更多</span></div><span class="more__uunJL7vT"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none"><path d="M5.75 3.5l4.5 4.5-4.5 4.5" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></div></div></div><div><div class="collectionItem__Vz1MlkoS"><div><div class="skillItem__oHqoOGNB"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.121 1.423A3.729 3.729 0 0115.85 5.15v9.723a1.734 1.734 0 01-2.537 1.537L9.17 14.25a.387.387 0 00-.357 0l-4.141 2.162a1.734 1.734 0 01-2.537-1.537V5.151c0-2.059 1.67-3.728 3.728-3.728h6.257zm-6.257 1.35A2.38 2.38 0 003.485 5.15v9.723c0 .288.307.474.563.34l4.142-2.162a1.735 1.735 0 011.605 0l4.143 2.163a.385.385 0 00.562-.341V5.151a2.38 2.38 0 00-2.379-2.379H5.864z" fill="currentColor"></path><path d="M7.02 7.877h3.956M8.993 5.9v3.957" stroke="currentColor" stroke-width="1.246" stroke-linecap="round"></path></svg><span>我的收藏</span></div></div></div><p class="br__bwZzAUou"></p></div><div class="projectList__qypVs3bf"><div class="head__sNxB5kwj"><p>项目</p><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.935 6c.373 0 .675.302.675.675v4.32h4.33a.675.675 0 110 1.349H12.61v4.595a.675.675 0 01-1.35 0v-4.595H6.676a.675.675 0 010-1.35h4.586v-4.32c0-.372.302-.674.675-.674z" fill="currentColor"></path></svg></div><div></div></div><div class="scrollHeadContainer__erWRiAeX"><div class="scrollHead__iODHk0Q8"><p>对话</p><p class="all__GsBGbAjs"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 9.538v2.464l1.74 1.74" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="12" cy="12" r="5.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"></circle></svg></p></div></div><div class="newHistorySessionListWrapper"><div><div class="sessionListContainer__fl5i3KqX"><div data-key="Njc0NTgwNDgzNzo1MDc4NDAyNzk1" class="sessionItemCardSideBar__f__sIwQe selected__aJi1aaaT"><div draggable="true" class="sessionItem__hA1uyDfx"><div class="sessionItemTop__midNdcny"><div class="sessionItemLeft__iDZF9Cgo"><span class="sessionName___q9htqXT sideBar__lN5SxjQg">长笛社日常演奏照片</span></div></div><div><div class="moreIcon__elqc3rru hover__vh6IIuiG moreIconShow__lrM3_D9f"><svg width="14" height="4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.312.813a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626zM7 .813a1.313 1.313 0 110 2.625A1.313 1.313 0 017 .812zm5.687 0a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626z" fill="var(--eb-color-bg-4d-b2)"></path></svg><div class="moreIconMask__Lx__P4MN"></div></div></div></div></div><div data-key="Njc0NTgwNDgzNzo1MDc3NzkzNDYy" class="sessionItemCardSideBar__f__sIwQe"><div draggable="true" class="sessionItem__hA1uyDfx"><div class="sessionItemTop__midNdcny"><div class="sessionItemLeft__iDZF9Cgo"><span class="sessionName___q9htqXT sideBar__lN5SxjQg">中值定理辅助函数构造</span></div></div><div><div class="moreIcon__elqc3rru"><svg width="14" height="4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.312.813a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626zM7 .813a1.313 1.313 0 110 2.625A1.313 1.313 0 017 .812zm5.687 0a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626z" fill="var(--eb-color-bg-4d-b2)"></path></svg><div class="moreIconMask__Lx__P4MN moreIconMaskShow__bSL0Slv4"></div></div></div></div></div><div data-key="Njc0NTgwNDgzNzo1MDc3Mzk5NDM0" class="sessionItemCardSideBar__f__sIwQe"><div draggable="true" class="sessionItem__hA1uyDfx"><div class="sessionItemTop__midNdcny"><div class="sessionItemLeft__iDZF9Cgo"><span class="sessionName___q9htqXT sideBar__lN5SxjQg">乐器社团简介</span></div></div><div><div class="moreIcon__elqc3rru"><svg width="14" height="4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.312.813a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626zM7 .813a1.313 1.313 0 110 2.625A1.313 1.313 0 017 .812zm5.687 0a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626z" fill="var(--eb-color-bg-4d-b2)"></path></svg><div class="moreIconMask__Lx__P4MN moreIconMaskShow__bSL0Slv4"></div></div></div></div></div><div data-key="Njc0NTgwNDgzNzo1MDc3MzE5MTY0" class="sessionItemCardSideBar__f__sIwQe"><div draggable="true" class="sessionItem__hA1uyDfx"><div class="sessionItemTop__midNdcny"><div class="sessionItemLeft__iDZF9Cgo"><span class="sessionName___q9htqXT sideBar__lN5SxjQg">“医养通”：居家失能老人智能护</span></div></div><div><div class="moreIcon__elqc3rru"><svg width="14" height="4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.312.813a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626zM7 .813a1.313 1.313 0 110 2.625A1.313 1.313 0 017 .812zm5.687 0a1.313 1.313 0 110 2.625 1.313 1.313 0 010-2.626z" fill="var(--eb-color-bg-4d-b2)"></path></svg><div class="moreIconMask__Lx__P4MN moreIconMaskShow__bSL0Slv4"></div></div></div></div></div></div></div></div></div><div class="sidebarBottom__S5OUFDr_"><div class="line__FLZe2BDQ"></div><div class="avatar__UwO0iBAC"><div class="openSidebarNicknameBg__bqOmjtm6"><div class="botHeaderUserImgLeftOff__JrRY2xTj"><img src="./长笛社演奏_files/public.1.d1ee38e1.qvD2WZ5SpaH02EKZhWLPrA" alt=""></div><p class="userNickname__y7cU1NE2">未登录</p></div></div></div></div></div><div class="outlet__S0TgkCeJ"><main class="page__bDCb1F4p"><div class="fileViewer__GjoArnI6 fileViewer--layout__W8osGJIq" id="eb_file_viewer" style="min-width: 400px;"><div class="imageArea__HBD332Mt"><div class="imagePreview__QQldsvrw"><header class="container__XtvIHCKv"><div class="sideBarHideHeaderShow__omg4TUTD sideBarHideHeader__PRYHCcT2"><div class="hoverSvg__UJ0M3WCr"><svg width="22" height="22" fill="none" xmlns="http://www.w3.org/2000/svg" class="isOpen__IFvCTIMF"><g stroke="currentColor" stroke-width="1.54" stroke-linecap="round" stroke-linejoin="round"><path d="M16.865 2.75H5.132a3.3 3.3 0 00-3.3 3.3v9.9a3.3 3.3 0 003.3 3.3h11.733a3.3 3.3 0 003.3-3.3v-9.9a3.3 3.3 0 00-3.3-3.3zM7.977 2.75v15.579"></path><path d="M13 8l3 3-3 3"></path></g></svg></div><div class="WrapItem__Kw0S3Bw5"><div class="hoverSvg__UJ0M3WCr"><svg width="22" height="22" fill="none" xmlns="http://www.w3.org/2000/svg" class="session__ZhNCJ7LL"><path d="M5.362 1.98a4.07 4.07 0 00-4.069 4.07v7.838a4.068 4.068 0 004.021 4.067v1.295a.77.77 0 001.002.734l.091-.035 4.317-1.992h5.914a4.07 4.07 0 004.069-4.07V6.05a4.07 4.07 0 00-4.07-4.07H5.363zm11.276 1.54a2.53 2.53 0 012.53 2.53v7.838a2.53 2.53 0 01-2.53 2.53h-6.085l-.083.004a.77.77 0 00-.24.066l-3.376 1.558v-.858a.77.77 0 00-.77-.77h-.722a2.53 2.53 0 01-2.53-2.53V6.05a2.53 2.53 0 012.53-2.53h11.276zM11 6.105a.77.77 0 00-.77.77v2.324H7.906a.77.77 0 100 1.54h2.324v2.323a.77.77 0 101.54 0v-2.324h2.324l.079-.004a.77.77 0 000-1.53l-.08-.005H11.77V6.875a.77.77 0 00-.77-.77z" fill="currentColor"></path></svg></div></div></div><i class="container__oV0iUkKg" style="margin-left: 16px; margin-right: 12px;"></i><div class="content__QG3aze__ header__b5hDKmEW"><div class="opBtnList__XgeDwbOu"><button class="ebButton__Td1lJFbI ebButton--text__EJHx3HC6" type="button" style="--comp-ui-btn-min-width: 0; --comp-ui-btn-icon-gap: 4px;"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.738 11.272c1.292-5.792 5.747-8.97 8.498-8.758 5.095.393-9.79 15.404-.84 9.902 7.778-4.781-.616 8.205 5.313 1.639" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path><path d="M16.356 12.996c-.336 0-.598.255-.598.618 0 .327.262.582.598.582a.583.583 0 00.599-.582c.037-.327-.262-.618-.599-.618zM2.658.67a.119.119 0 00-.118.11A2.208 2.208 0 01.558 2.767a.117.117 0 00-.107.117c0 .061.048.112.11.117a2.205 2.205 0 011.982 1.984.117.117 0 00.117.107h.011a.119.119 0 00.118-.11A2.205 2.205 0 014.769 3a.117.117 0 00.106-.118.119.119 0 00-.107-.117A2.2 2.2 0 012.788.777a.119.119 0 00-.117-.109h-.013v.003z" fill="currentColor"></path></svg>局部重绘</button><button class="ebButton__Td1lJFbI ebButton--text__EJHx3HC6" type="button" style="--comp-ui-btn-min-width: 0; --comp-ui-btn-icon-gap: 4px;"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#previewErase_svg__clip0_7063_51311)"><g clip-path="url(#previewErase_svg__clip1_7063_51311)" fill="currentColor"><path d="M9.645 2.225c.95-.95 2.492-.95 3.442 0l2.947 2.947.166.183c.78.957.724 2.369-.169 3.26l-7.065 7.048h7.413a.6.6 0 110 1.2h-8.88c-.024 0-.048-.006-.071-.008-.18.062-.369.106-.56.125l-.241.013h-.233a2.436 2.436 0 01-1.786-.78l-2.713-2.928c-.89-.96-.86-2.45.064-3.375l7.686-7.685zm-6.837 8.534a1.234 1.234 0 00-.034 1.71l2.714 2.929c.234.251.562.395.906.395h.233c.326 0 .64-.13.871-.361l1.107-1.106-4.682-4.683-1.115 1.116zm9.43-7.686a1.234 1.234 0 00-1.745 0L4.771 8.795l4.684 4.684 5.729-5.714a1.233 1.233 0 00.002-1.744l-2.948-2.948zM3.038.098a.13.13 0 00-.127.12A2.382 2.382 0 01.773 2.362a.126.126 0 00-.115.127c0 .066.052.12.118.126a2.378 2.378 0 012.138 2.14c.006.067.06.116.127.116h.011a.128.128 0 00.127-.118 2.379 2.379 0 012.135-2.14.126.126 0 00.115-.127.128.128 0 00-.115-.127A2.374 2.374 0 013.179.216a.128.128 0 00-.127-.118h-.014z"></path></g></g><defs><clippath id="previewErase_svg__clip0_7063_51311"><path fill="currentColor" d="M0 0h18v18H0z"></path></clippath><clippath id="previewErase_svg__clip1_7063_51311"><path fill="currentColor" transform="translate(.498 .5)" d="M0 0h16.86v16.86H0z"></path></clippath></defs></svg>一键消除</button><button class="ebButton__Td1lJFbI ebButton--text__EJHx3HC6" type="button" style="--comp-ui-btn-min-width: 0; --comp-ui-btn-icon-gap: 4px;"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none"><path d="M12.158 1.423a3.686 3.686 0 013.687 3.686v9.83a1.671 1.671 0 01-2.445 1.48l-4.187-2.186a.471.471 0 00-.436 0L4.59 16.42a1.671 1.671 0 01-2.444-1.482V5.11a3.686 3.686 0 013.686-3.686h6.326zm-6.326 1.2a2.488 2.488 0 00-2.487 2.486v9.83c0 .353.376.581.69.417l4.187-2.186a1.672 1.672 0 011.547 0l4.187 2.186a.471.471 0 00.69-.418V5.11a2.488 2.488 0 00-2.488-2.487H5.832z" fill="currentColor"></path><path d="M7 7.863h4M8.996 5.867v4" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path></svg>收藏</button><button class="ebButton__Td1lJFbI ebButton--text__EJHx3HC6" type="button" style="--comp-ui-btn-min-width: 0; --comp-ui-btn-icon-gap: 4px;"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.25 11.003v2.747a2 2 0 002 2h9.5a2 2 0 002-2V11"></path><path d="M12.375 8.625L9 12 5.625 8.625M8.997 2.25V12"></path></g></svg>下载</button></div></div><i class="container__oV0iUkKg" style="margin-left: 14px; margin-right: 5px;"></i><div class="closeBtn__NGnN_r_C"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 32 32"><path d="M13.535 16L.825 3.29A1.743 1.743 0 013.288.823L16 13.535 28.71.825a1.743 1.743 0 112.466 2.464L18.465 16l12.71 12.71a1.743 1.743 0 01-2.464 2.466L16 18.465 3.29 31.175a1.743 1.743 0 01-2.466-2.464L13.535 16z"></path><path d="M30.473.079c.707.19 1.259.741 1.448 1.448l.045.213c.101.642-.11 1.3-.575 1.765L18.897 16 31.39 28.495c.8.8.8 2.096 0 2.896l-.166.15a2.048 2.048 0 01-2.73-.15L16 18.895 3.505 31.391c-.8.8-2.096.8-2.896 0l-.15-.166a2.048 2.048 0 01.15-2.73L13.105 16 .609 3.505c-.8-.8-.8-2.096 0-2.896l.166-.15a2.048 2.048 0 012.73.15L16 13.103 28.495.61a2.048 2.048 0 011.978-.53zm-1.547.96L16 13.967 3.074 1.04A1.438 1.438 0 001.04 3.074L13.966 16 1.04 28.926a1.438 1.438 0 002.034 2.034L16 18.034 28.926 30.96a1.438 1.438 0 002.034-2.034L18.034 16 30.96 3.074a1.438 1.438 0 00-2.034-2.034z"></path><path d="M30.434.226a1.895 1.895 0 011.34 1.34l.045.22a1.896 1.896 0 01-.536 1.611L18.681 16l12.602 12.603c.74.74.74 1.94 0 2.68l-.153.139a1.896 1.896 0 01-2.527-.139L16 18.68 3.397 31.283c-.74.74-1.94.74-2.68 0l-.139-.153a1.896 1.896 0 01.139-2.527L13.32 16 .717 3.397c-.74-.74-.74-1.94 0-2.68L.87.578a1.896 1.896 0 012.527.139l12.605 12.602L28.602.717a1.895 1.895 0 011.832-.491zm-1.616.706l-12.71 12.711h-.216L3.182.933a1.59 1.59 0 00-2.25 2.249l12.711 12.71v.216L.932 28.818a1.59 1.59 0 002.25 2.25l12.71-12.711h.216l12.71 12.711a1.59 1.59 0 002.25-2.25l-12.711-12.71v-.216l12.71-12.71a1.59 1.59 0 00-2.249-2.25z"></path><path d="M3.511.602L16 13.092 28.489.602a2.057 2.057 0 013.44.923l.059.306a2.057 2.057 0 01-.59 1.68L18.908 16l12.49 12.489a2.057 2.057 0 010 2.909l-.255.216a2.057 2.057 0 01-2.654-.216L16 18.908 3.511 31.398a2.057 2.057 0 01-2.909 0l-.216-.255a2.057 2.057 0 01.216-2.654L13.092 16 .602 3.511A2.057 2.057 0 113.512.602zm-2.465.444a1.43 1.43 0 000 2.022l12.711 12.71v.444l-12.71 12.71a1.43 1.43 0 002.02 2.022l12.711-12.711h.444l12.71 12.71a1.43 1.43 0 002.022-2.02L18.243 16.221v-.444l12.71-12.71a1.43 1.43 0 00-2.02-2.022L16.221 13.757h-.444L3.068 1.047a1.43 1.43 0 00-2.022 0z"></path></svg></div></header><div class="content__C5Y3Gnr0"><div class="previewContainer__LYvRINj8"><div class="viewArrow__QfHiAhmV"><svg width="36" height="36" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="36" height="36" rx="18" transform="matrix(-1 0 0 1 36 0)"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M21.184 10.26a.889.889 0 00-1.257 0l-7.111 7.112a.889.889 0 000 1.256l7.11 7.112a.889.889 0 001.258-1.257L14.701 18l6.483-6.483a.889.889 0 000-1.257z" fill="currentColor"></path></svg></div><div class="viewArrow__QfHiAhmV rotate__r3HQtKcC"><svg width="36" height="36" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="36" height="36" rx="18" transform="matrix(-1 0 0 1 36 0)"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M21.184 10.26a.889.889 0 00-1.257 0l-7.111 7.112a.889.889 0 000 1.256l7.11 7.112a.889.889 0 001.258-1.257L14.701 18l6.483-6.483a.889.889 0 000-1.257z" fill="currentColor"></path></svg></div><div class="flexBox__d80wEmhk"><div class="react-draggable" style="max-height: calc(100% - 112px); max-width: 100%; width: 100%; height: 100%; cursor: default; transform: translate(0px, 0px); aspect-ratio: 494 / 494;"><div class="baseImage__p8N1pu7N" style="background-image: url(&quot;http://eb118-file.cdn.bcebos.com/upload/b65ec946d8eb438faf7b9f8fca004652_1280715407.png&quot;); transform: scale(1);"></div></div></div></div></div><div class="PreviewFooterOperate__dnntQzhp"><div class="operateBtnGroup__GowB_WMZ"><span class="btn__CiM3YNb0"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon__8bcv5gm8"><path d="M5 9h8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"></path></svg></span><div class="scaleNum__dCH5rYLS">100%</div><span class="btn__CiM3YNb0"><svg width="18" height="18" fill="none" class="icon__8bcv5gm8"><path d="M5 9h8M9.004 5v8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"></path></svg></span></div></div></div></div><div class="dragLine__Uv51JNfV"></div></div><div class="chatViewer__rQkFFejd" style="min-width: 400px;"><div class="topFixedArea__CEAf6zVo topFixedArea__BvZaiOQg"><div class="left__kl4fNh1o"><div class="modelTabWrapper__HYkdcf6S"><div class="newModelTabSelector__CzlCPc2I"><span>文心 4.5 Turbo</span><svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" class="arrowDown__SjW0QhhB"><path d="M2.908 5.835a.8.8 0 011.074-.052l.058.051 3.956 3.957 3.93-3.983a.8.8 0 011.073-.058l.058.05a.8.8 0 01.059 1.075l-.051.057-4.496 4.556a.8.8 0 01-1.08.053l-.055-.05-4.526-4.525a.8.8 0 010-1.132v.001z" fill="currentColor"></path></svg></div></div></div><div class="TopRightTools__B7oUMPOJ"></div><div class="container__h9EMHz5r containerRight__pe47Z_m0" style="width: 277px; margin-left: -138.5px;"><span>给我生成几张长笛社日常演奏照片，要求有男有女</span></div></div><div id="DIALOGUE_CONTAINER_ID" class="dialogueCardList__TClMglFu"><div id="card_list_id" class="flexColumnReverse__CZGfNJ1u"><div style="height: 60px;"></div><div data-id="23113731529" class="dialogue_card_item dialogueCardItemWrapper__Ft5SEiRh needGrow__G5INR9zQ" id="chat-id-23113731529" data-chat-id="23113731529"><div class="flowBox__iL5HfgBK answerBox__D50BuLYx answerLastBox__shVpGFRC shareBoxOuter__fDMhKnGt"><div class="flexBox__btVTGt0X showViewer__NMGXeLIl"><div class="rightContent__VQTV3B86"><div class="roleSystem__z4jWifwY undefined"><div class="dialog-card-wrapper cardWrapper__s6Gr9aXy"><div class="container__MLcGUnhe"><img class="modelSign__rVtCb0j2" src="./长笛社演奏_files/sign-4.5T.svg" alt="文心大模型4.5t生成"></div><div><div><div class="container__JDNuB_CY imageGrid__RpKRCkEl" style="max-width: 480px; margin-bottom: 20px; --ImageGrid-side-count: 3; --ImageGrid-main-ratio: 3fr;"><span class="ebImage__ZbHmiROj" style="--image-border-display: block; --image-border-radius: 8px 0 0 8px;"><img src="./长笛社演奏_files/2ec5bcbc90f044509afdee5de07108d9_1280715405.png" data-comp="IMAGE_PREVIEW_FLAG" data-raw-url="http://eb118-file.cdn.bcebos.com/upload/2ec5bcbc90f044509afdee5de07108d9_1280715405.png" class="" alt="imgs-1" style="cursor: zoom-in; border-radius: 8px 0px 0px 8px;"><span class="downloadBtn__owPs_Sl9"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.25 11.003v2.747a2 2 0 002 2h9.5a2 2 0 002-2V11"></path><path d="M12.375 8.625L9 12 5.625 8.625M8.997 2.25V12"></path></g></svg></span></span><div class="sideImages__DYq_84nb"><span class="ebImage__ZbHmiROj" style="--image-border-display: block; --image-border-radius: 0 8px 0 0;"><img src="./长笛社演奏_files/ac1c031e2eca4468870ab1993b7dd01e_1280715406.png" data-comp="IMAGE_PREVIEW_FLAG" data-raw-url="http://eb118-file.cdn.bcebos.com/upload/ac1c031e2eca4468870ab1993b7dd01e_1280715406.png" class="" alt="imgs-2" style="cursor: zoom-in; border-radius: 0px 8px 0px 0px;"><span class="downloadBtn__owPs_Sl9"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.25 11.003v2.747a2 2 0 002 2h9.5a2 2 0 002-2V11"></path><path d="M12.375 8.625L9 12 5.625 8.625M8.997 2.25V12"></path></g></svg></span></span><span class="ebImage__ZbHmiROj" style="--image-border-display: block; --image-border-radius: 0;"><img src="./长笛社演奏_files/b65ec946d8eb438faf7b9f8fca004652_1280715407.png" data-comp="IMAGE_PREVIEW_FLAG" data-raw-url="http://eb118-file.cdn.bcebos.com/upload/b65ec946d8eb438faf7b9f8fca004652_1280715407.png" class="" alt="imgs-3" style="cursor: zoom-in; border-radius: 0px;"><span class="downloadBtn__owPs_Sl9"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.25 11.003v2.747a2 2 0 002 2h9.5a2 2 0 002-2V11"></path><path d="M12.375 8.625L9 12 5.625 8.625M8.997 2.25V12"></path></g></svg></span></span><span class="ebImage__ZbHmiROj" style="--image-border-display: block; --image-border-radius: 0 0 8px 0;"><img src="./长笛社演奏_files/9692770f01c14a4a9a4a2edbb2af7305_1280715408.png" data-comp="IMAGE_PREVIEW_FLAG" data-raw-url="http://eb118-file.cdn.bcebos.com/upload/9692770f01c14a4a9a4a2edbb2af7305_1280715408.png" class="" alt="imgs-4" style="cursor: zoom-in; border-radius: 0px 0px 8px;"><span class="downloadBtn__owPs_Sl9"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.25 11.003v2.747a2 2 0 002 2h9.5a2 2 0 002-2V11"></path><path d="M12.375 8.625L9 12 5.625 8.625M8.997 2.25V12"></path></g></svg></span></span></div></div><div id="answer_text_id"><div class="custom-html md-stream-desktop"><p>已经为你完成了几张长笛社日常演奏的照片创作，画面中有男有女，展现了长笛社的和谐与活力。</p></div></div></div></div></div><div class=""><div class="dialogCardBottom__qoXjps3z"><div class="retryBtn__dh4pWh5C" data-auto-test="anew_response"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.941 3.116v3.111h-3.11M3.057 14.886v-3.112h3.11" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M14.387 5.889A6.222 6.222 0 002.96 7.497m.65 4.614a6.222 6.222 0 0011.369-1.394" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class="ttsIcon__bLi1Agih"><audio hidden=""></audio><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.34 2.859c1.086-1.014 2.86-.243 2.86 1.243v9.797c0 1.486-1.773 2.257-2.86 1.243l-2.097-1.957a1.3 1.3 0 00-.951-.348l-.15.016-.863.143A1.7 1.7 0 011.3 11.32V6.681a1.7 1.7 0 011.98-1.677l.864.144.149.015a1.3 1.3 0 00.951-.347L7.34 2.859zm6.887.615a.7.7 0 01.883-.031l.104.096.233.28C16.58 5.248 17.201 7.095 17.201 9c0 2.033-.707 3.999-1.987 5.461a.7.7 0 11-1.053-.922c1.042-1.19 1.64-2.822 1.64-4.539 0-1.61-.526-3.144-1.45-4.31l-.19-.229-.083-.115a.7.7 0 01.149-.872zM8.8 4.102a.3.3 0 00-.505-.219L6.198 5.839a2.7 2.7 0 01-2.13.711l-.156-.022-.862-.143a.3.3 0 00-.35.296v4.638a.3.3 0 00.35.296l.862-.143.155-.022a2.7 2.7 0 012.131.711l2.097 1.957a.3.3 0 00.505-.22V4.103zm3.24 1.868a.7.7 0 01.883-.031l.103.096.128.153c.619.78.952 1.781.952 2.808 0 1.096-.38 2.162-1.08 2.961a.7.7 0 11-1.052-.922c.46-.527.733-1.26.733-2.039 0-.682-.208-1.328-.57-1.832l-.163-.207-.083-.115a.7.7 0 01.148-.872z" fill="currentColor"></path></svg></div><div class="copy__EjNaR1pE"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.7 4.604a1.7 1.7 0 011.7 1.7v8a1.7 1.7 0 01-1.7 1.7h-8a1.7 1.7 0 01-1.701-1.7v-8a1.7 1.7 0 011.7-1.7h8zm-8 1.4a.3.3 0 00-.3.3v8a.3.3 0 00.3.3h8a.3.3 0 00.299-.3v-8a.3.3 0 00-.3-.3h-8zm9.6-4.001a2.7 2.7 0 012.701 2.7v7a.7.7 0 01-1.4 0v-7a1.3 1.3 0 00-1.3-1.3h-7a.7.7 0 010-1.4h7z" fill="currentColor"></path></svg></div><div class="copyTempBox__ZDeMYz_Y" id="copy-container"></div><div class="collect__whBYMECi"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.928 1.813c1.973 0 3.574 1.6 3.574 3.573v9.093a1.709 1.709 0 01-2.5 1.515l-3.874-2.022a.274.274 0 00-.253 0l-3.874 2.022a1.709 1.709 0 01-2.5-1.514V5.386c.001-1.973 1.601-3.573 3.574-3.574h5.853zM6.075 3.248c-1.18 0-2.137.957-2.138 2.138v9.093c0 .206.218.338.4.243l3.874-2.023a1.71 1.71 0 011.582 0l3.874 2.023c.182.094.4-.037.4-.242V5.386c0-1.181-.959-2.138-2.14-2.138H6.076z" fill="currentColor"></path><path d="M7.154 7.941h3.7M9 6.094v3.7" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"></path></svg></div><div class="share__Ve2YBELi"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.75 3.431a.8.8 0 011.366-.565l4.656 4.656a1 1 0 01-.02 1.435l-4.653 4.394a.8.8 0 01-1.349-.582V10.5c-2.989 0-5.005 1.823-6.188 3.393-.33.44-1.247.186-1.191-.362.493-4.878 2.56-7.906 7.379-7.906V3.431z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class="icon__MM65kfv9"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.802 7.8a1.2 1.2 0 110 2.402 1.2 1.2 0 010-2.401zM9 7.8a1.2 1.2 0 110 2.402A1.2 1.2 0 019 7.8zm5.2 0a1.2 1.2 0 11-.001 2.402 1.2 1.2 0 010-2.401z" fill="currentColor"></path></svg></div><div class="group__FeVLQRim"><div class="feedbackBtn__pVvhJ67X"><div class="container__zlboGb25 ebLottieSvg__POpsKBaw singleColor__RQrwXZfP" style="width: 22px; height: 22px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110 110" width="110" height="110" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"><defs><clippath id="__lottie_element_133"><rect width="110" height="110" x="0" y="0"></rect></clippath><g id="__lottie_element_134"><g transform="matrix(1,0,0,1,37.5,14.5)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(5,0,0,5,0,0)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.4" d=" M0,5.449999809265137 C0,5.449999809265137 0,-5.875 0,-5.875"></path></g></g></g><filter id="__lottie_element_143" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%"><fecomponenttransfer in="SourceGraphic"><fefunca type="table" tableValues="1.0 0.0"></fefunca></fecomponenttransfer></filter><mask id="__lottie_element_134_2" mask-type="alpha"><g filter="url(#__lottie_element_143)"><rect width="110" height="110" x="0" y="0" fill="#ffffff" opacity="0"></rect><use href="#__lottie_element_134"></use></g></mask></defs><g clip-path="url(#__lottie_element_133)"><g transform="matrix(1,0,0,1,37.5,67.5)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(5,0,0,5,0,0)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.4" d=" M0,3.5 C0,3.5 0,-3.5 0,-3.5"></path></g></g><g mask="url(#__lottie_element_134_2)" style="display: block;"><g transform="matrix(1,0,0,1,55.38600158691406,53.73099899291992)" opacity="1"><path fill="rgb(0,0,0)" fill-opacity="0" d=" M-32.89,0.38 C-32.89,0.38 -32.89,27.37 -32.89,27.37 C-32.89,30.13 -30.65,32.37 -27.89,32.37 C-27.89,32.37 11.44,32.37 11.44,32.37 C19.24,32.37 26.1,27.2 28.19,19.69 C29.64,14.53 31.07,9.32 32.51,4.15 C34.3,-2.25 29.49,-8.63 22.84,-8.63 C22.84,-8.63 8.25,-8.63 8.25,-8.63 C7.81,-8.63 7.54,-9.17 7.79,-9.53 C9.01,-11.38 11.41,-16.09 10.61,-23.63 C9.56,-33.63 -5.39,-35.82 -5.38,-26.12 C-5.38,-23.55 -5.55,-20.83 -5.81,-18.22 C-6.03,-15.99 -6.74,-13.94 -7.82,-12.14 C-10.61,-7.53 -15.87,-4.62 -21.64,-4.62 C-21.64,-4.62 -27.89,-4.62 -27.89,-4.62 C-30.65,-4.62 -32.89,-2.38 -32.89,0.38z"></path><g opacity="1" transform="matrix(5,0,0,5,0,0)"><path stroke-linecap="butt" stroke-linejoin="round" fill-opacity="0" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.4" d=" M-6.577000141143799,0.07599999755620956 C-6.577000141143799,0.07599999755620956 -6.577000141143799,5.473999977111816 -6.577000141143799,5.473999977111816 C-6.577000141143799,6.026000022888184 -6.129000186920166,6.473999977111816 -5.577000141143799,6.473999977111816 C-5.577000141143799,6.473999977111816 2.2880001068115234,6.473999977111816 2.2880001068115234,6.473999977111816 C3.8480000495910645,6.473999977111816 5.21999979019165,5.440999984741211 5.638999938964844,3.937999963760376 C5.927000045776367,2.9059998989105225 6.214000225067139,1.8630000352859497 6.501999855041504,0.8309999704360962 C6.859000205993652,-0.44999998807907104 5.8979997634887695,-1.725000023841858 4.567999839782715,-1.725000023841858 C4.567999839782715,-1.725000023841858 1.6490000486373901,-1.725000023841858 1.6490000486373901,-1.725000023841858 C1.562000036239624,-1.725000023841858 1.5089999437332153,-1.8339999914169312 1.5570000410079956,-1.906000018119812 C1.8020000457763672,-2.2769999504089355 2.2820000648498535,-3.2170000076293945 2.122999906539917,-4.72599983215332 C1.9119999408721924,-6.72599983215332 -1.0779999494552612,-7.164999961853027 -1.0759999752044678,-5.223999977111816 C-1.0759999752044678,-4.709000110626221 -1.1100000143051147,-4.165999889373779 -1.1619999408721924,-3.6449999809265137 C-1.2059999704360962,-3.197999954223633 -1.347000002861023,-2.7880001068115234 -1.5640000104904175,-2.428999900817871 C-2.121000051498413,-1.5069999694824219 -3.1730000972747803,-0.9240000247955322 -4.328999996185303,-0.9240000247955322 C-4.328999996185303,-0.9240000247955322 -5.577000141143799,-0.9240000247955322 -5.577000141143799,-0.9240000247955322 C-6.129000186920166,-0.9240000247955322 -6.577000141143799,-0.47600001096725464 -6.577000141143799,0.07599999755620956z"></path></g></g></g></g></svg></div></div><div class="feedbackBtn__pVvhJ67X"><svg width="22" height="22" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.501 5.8v5.398a1 1 0 001 1H6.75c1.605 0 3.009 1.123 3.167 2.72.051.522.086 1.065.085 1.58-.001 1.941 2.988 1.501 3.199-.499.159-1.509-.32-2.449-.565-2.82-.048-.072.004-.18.091-.18h2.919a2.014 2.014 0 001.934-2.557c-.287-1.032-.575-2.075-.863-3.107A3.473 3.473 0 0013.366 4.8H5.5a1 1 0 00-1 1z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"></path><path d="M7.501 12V5" stroke="currentColor" stroke-width="1.4"></path></svg></div></div></div></div><div class="container__ih7yoErn"><div class="item__rWIjE1Wi">改为下雪天</div><div class="item__rWIjE1Wi">增加萤火虫</div><div class="item__rWIjE1Wi">为我重新生成几幅</div></div></div></div></div></div></div><div data-id="23113731528" class="dialogue_card_item dialogueCardItemWrapper__Ft5SEiRh" id="chat-id-23113731528" data-chat-id="23113731528"><div class="flowBox__iL5HfgBK questionBox__ZFtMiY23 shareBoxOuter__fDMhKnGt"><div class="flexBox__btVTGt0X flexEndBox__O3xf7xGN showViewer__NMGXeLIl"><div class="rightContent__VQTV3B86"><div class="roleUser__TCPTqNDW"><div id="question_text_id" class="questionText__ptIGR0nj"><span>给我生成几张长笛社日常演奏照片，要求有男有女</span></div><div class="editControls__OdmgmAiJ"><div class="editControlsInner__GIBMxnUd"><div class="contain__tnV4BDzn"><span class="iconSpan__Qq4Vjp5x"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 3.5H4a2 2 0 00-2 2v7a2 2 0 002 2h5M12 3.5h2a2 2 0 012 2v7a2 2 0 01-2 2h-2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path><path d="M12 2v14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M8.572 9h.007M5.271 9h.007" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"></path></svg></span><span class="iconSpan__Qq4Vjp5x"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15.64 14.514a.7.7 0 010 1.37l-.14.015H10a.7.7 0 010-1.4h5.5l.14.015zM9.3 2.406a2.2 2.2 0 013.1-.271l1.532 1.285c.93.78 1.052 2.17.27 3.1l-6.859 8.175c-.46.549-1.12.892-1.833.954l-2.637.23a.76.76 0 01-.812-.612l-.012-.078-.23-2.637a2.701 2.701 0 01.62-1.971L9.3 2.406zm-5.787 9.075a1.3 1.3 0 00-.299.949l.175 1.999 2-.175a1.3 1.3 0 00.881-.46l5.445-6.49-2.757-2.313-5.445 6.49zM11.5 3.208a.8.8 0 00-1.126.098l-.515.612 2.758 2.314.514-.612a.8.8 0 00-.098-1.127l-1.533-1.285z" fill="currentColor"></path></svg></span></div></div></div></div></div></div></div></div></div></div><div class="inputGuidance__EnvpsYdn"><div class="ebRow__z1h__4R8 dialogueInputContainer__pK9orIJs moveUp__rFJ_CT01 moveUp-delay-0__bta12V5B"><div tabindex="-1" class="dialogueInputWrapper__zU_eV9dO"><div class="inputWrapper__PtNK2L2M"><div class="inputArea__DMdGL73T"><div class="editorNodeWrapper__w1WSWcn9"><div class="yc-editor-container textInput__DQ7E2xd1 isWin__HG6xVl_e isBottomInputStyle__VXb06ru7"><div class="yc-editor-wrapper"><div placeholder="请描述你想生成的图片内容、风格、比例，或上传参考图" data-display-placeholder="true" data-display-cursor="false" class="yc-editor" contenteditable="true" role="textbox" spellcheck="true" data-lexical-editor="true" style="user-select: text; white-space: pre-wrap; word-break: break-word; min-height: 52px; max-height: 156px; --placeholder-left-offset: 100px; --placeholder-top-offset: 4px;" prefix="[object Object]"><p class="yc-editor-paragraph"><span data-lexical-decorator="true" contenteditable="false"><span class="QuitSkillPrefix__CxjVIm6p"><svg width="12" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.167 11.09a.8.8 0 00.052-1.074l-.052-.057-3.956-3.957 3.983-3.93A.8.8 0 008.252 1L8.202.94A.8.8 0 007.126.882L7.07.933 2.514 5.43a.8.8 0 00-.053 1.081l.05.054 4.525 4.526a.8.8 0 001.131 0z" fill="#4971F5"></path></svg>智慧绘图</span></span><br></p></div></div></div></div></div></div><div class="footBar__gz7uNXEV"><div class="footbarLeft__uTuidpax"><div class="uploadActionContainer__OxKsFD7E"><div class="uploadDropdownIconWrapper__MxLNKO2N hasText__OW3e_JSm"><div class="container__zlboGb25 singleColor__RQrwXZfP" style="width: 20px; height: 20px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" width="100" height="100" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"><defs><clippath id="__lottie_element_41"><rect width="100" height="100" x="0" y="0"></rect></clippath></defs><g clip-path="url(#__lottie_element_41)"><g transform="matrix(1,0,0,1,50,50)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(5,0,0,5,0,0)"><path stroke-linecap="round" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.4" d=" M6,0 C6,0 -6,0 -6,0"></path></g></g><g transform="matrix(1,0,0,1,50,50)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(5,0,0,5,0,0)"><path stroke-linecap="round" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.4" d=" M0,6 C0,6 0,-6 0,-6"></path></g></g></g></svg></div><span class="text__TvJWp3WR">图片</span></div></div><div class="box__ewjS24vk"></div></div><div class="footbarRight__opcsgQet"><div class="input__Yi5Mo16o"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><path d="M12.917 4.583a2.917 2.917 0 10-5.833 0v5.416a2.917 2.917 0 005.833 0V4.583z" stroke="currentColor" stroke-width="1.54" stroke-linejoin="round"></path><path d="M3.75 9.584a6.25 6.25 0 1012.5 0M10 15.834v2.5" stroke="currentColor" stroke-width="1.54" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class="send__oauXtNY3"><div class="btnContainer__Va2kMgqR" style=""><span class="sendInner__xCktUkDO sendBtnLottie___w5pN8rt"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" width="100" height="100" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"><defs><clippath id="__lottie_element_10"><rect width="100" height="100" x="0" y="0"></rect></clippath><clippath id="__lottie_element_12"><path d="M0,0 L240,0 L240,112 L0,112z"></path></clippath><clippath id="__lottie_element_16"><path d="M0,0 L3170,0 L3170,1783 L0,1783z"></path></clippath><g id="__lottie_element_19"><g transform="matrix(13.170000076293945,0,0,13.170000076293945,-12220.3642578125,-8267.9521484375)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,1051.81201171875,698.25)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(175,127,84)" stroke-opacity="1" stroke-width="0" d=" M40,0 C40,0 40,0 40,0 C40,22.076000213623047 22.076000213623047,40 0,40 C0,40 0,40 0,40 C-22.076000213623047,40 -40,22.076000213623047 -40,0 C-40,0 -40,0 -40,0 C-40,-22.076000213623047 -22.076000213623047,-40 0,-40 C0,-40 0,-40 0,-40 C22.076000213623047,-40 40,-22.076000213623047 40,0z"></path><path fill="rgb(0,0,13)" fill-opacity="1" d=" M40,0 C40,0 40,0 40,0 C40,22.076000213623047 22.076000213623047,40 0,40 C0,40 0,40 0,40 C-22.076000213623047,40 -40,22.076000213623047 -40,0 C-40,0 -40,0 -40,0 C-40,-22.076000213623047 -22.076000213623047,-40 0,-40 C0,-40 0,-40 0,-40 C22.076000213623047,-40 40,-22.076000213623047 40,0z"></path></g></g></g><clippath id="__lottie_element_23"><path d="M0,0 L2500,0 L2500,1406 L0,1406z"></path></clippath><lineargradient id="__lottie_element_29" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-98" y1="137" x2="-5" y2="51"><stop offset="0%" stop-color="rgb(255,255,255)"></stop><stop offset="100%" stop-color="rgb(0,0,0)"></stop></lineargradient><lineargradient id="__lottie_element_36" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-98" y1="137" x2="-5" y2="51"><stop offset="0%" stop-color="rgb(255,255,255)"></stop><stop offset="100%" stop-color="rgb(0,0,0)"></stop></lineargradient><mask id="__lottie_element_19_1" mask-type="alpha"><use href="#__lottie_element_19"></use></mask></defs><g clip-path="url(#__lottie_element_10)"><g clip-path="url(#__lottie_element_12)" transform="matrix(1.1200000047683716,0,0,1.1200000047683716,-84.39999389648438,-12.720001220703125)" opacity="1" style="display: block;"><g style="display: block;" transform="matrix(1,0,0,1,-931.81201171875,-642.25)" opacity="1"><g opacity="1" transform="matrix(1,0,0,1,1051.81201171875,698.25)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(175,127,84)" stroke-opacity="1" stroke-width="0" d=" M40,0 C40,0 40,0 40,0 C40,22.076000213623047 22.076000213623047,40 0,40 C0,40 0,40 0,40 C-22.076000213623047,40 -40,22.076000213623047 -40,0 C-40,0 -40,0 -40,0 C-40,-22.076000213623047 -22.076000213623047,-40 0,-40 C0,-40 0,-40 0,-40 C22.076000213623047,-40 40,-22.076000213623047 40,0z"></path><path fill="rgb(13,13,13)" fill-opacity="1" d=" M40,0 C40,0 40,0 40,0 C40,22.076000213623047 22.076000213623047,40 0,40 C0,40 0,40 0,40 C-22.076000213623047,40 -40,22.076000213623047 -40,0 C-40,0 -40,0 -40,0 C-40,-22.076000213623047 -22.076000213623047,-40 0,-40 C0,-40 0,-40 0,-40 C22.076000213623047,-40 40,-22.076000213623047 40,0z"></path></g></g><g clip-path="url(#__lottie_element_16)" transform="matrix(0.07500000298023224,0,0,0.07500000298023224,-2.200000047683716,-13.612500190734863)" opacity="1" style="display: block;"><g mask="url(#__lottie_element_19_1)" style="display: block;"><g clip-path="url(#__lottie_element_23)" transform="matrix(1,0,0,1,401,221.5)" opacity="1"><g transform="matrix(1,0,0,1,1240,700)" opacity="0.8" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill="url(#__lottie_element_36)" fill-opacity="1" d=" M-74.125,10.875 C-74.125,10.875 -69,-36.375 -74.125,10.875 C-79.25,58.125 -114,110.125 -126.125,113 C-138.25,115.875 -99.625,194.875 -84.125,168.25 C-62.125,136.625 3.875,108.75 32.375,109.625 C60.875,110.5 30.940000534057617,55.819000244140625 3.0199999809265137,29.871999740600586 C-22.16900062561035,6.464000225067139 -74.125,10.637999534606934 -74.125,10.875z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(255,255,255)" stroke-opacity="0.87" stroke-width="0" d=" M-74.125,10.875 C-74.125,10.875 -69,-36.375 -74.125,10.875 C-79.25,58.125 -114,110.125 -126.125,113 C-138.25,115.875 -99.625,194.875 -84.125,168.25 C-62.125,136.625 3.875,108.75 32.375,109.625 C60.875,110.5 30.940000534057617,55.819000244140625 3.0199999809265137,29.871999740600586 C-22.16900062561035,6.464000225067139 -74.125,10.637999534606934 -74.125,10.875z"></path></g></g><g transform="matrix(1,0,0,1,1239.875,699.875)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.125,-0.25)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M-125.875,102 C-145.70899963378906,102.14199829101562 -161.53700256347656,112.69400024414062 -170.7429962158203,126.77400207519531 C-177.78199768066406,137.5399932861328 -179.87600708007812,149.375 -179.43800354003906,161.375 C-178.4770050048828,187.7429962158203 -155.8090057373047,214.60899353027344 -121.31199645996094,215.93800354003906 C-97.76499938964844,216.84500122070312 -80.2300033569336,202.57899475097656 -71.6969985961914,187.18899536132812 C-68.4749984741211,181.3780059814453 -66.80500030517578,175.031005859375 -66.18800354003906,169.8280029296875 C-64.45899963378906,155.24099731445312 -67.125,143.25 -72.5,132.43800354003906 C-76.04000091552734,125.31800079345703 -91.875,103.18800354003906 -122.50199890136719,102.05000305175781 C-123.6050033569336,102.00900268554688 -124.72899627685547,101.99199676513672 -125.875,102z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="0" d=" M-125.875,102 C-145.70899963378906,102.14199829101562 -161.53700256347656,112.69400024414062 -170.7429962158203,126.77400207519531 C-177.78199768066406,137.5399932861328 -179.87600708007812,149.375 -179.43800354003906,161.375 C-178.4770050048828,187.7429962158203 -155.8090057373047,214.60899353027344 -121.31199645996094,215.93800354003906 C-97.76499938964844,216.84500122070312 -80.2300033569336,202.57899475097656 -71.6969985961914,187.18899536132812 C-68.4749984741211,181.3780059814453 -66.80500030517578,175.031005859375 -66.18800354003906,169.8280029296875 C-64.45899963378906,155.24099731445312 -67.125,143.25 -72.5,132.43800354003906 C-76.04000091552734,125.31800079345703 -91.875,103.18800354003906 -122.50199890136719,102.05000305175781 C-123.6050033569336,102.00900268554688 -124.72899627685547,101.99199676513672 -125.875,102z"></path></g></g><g transform="matrix(1.1100000143051147,0,0,1.1100000143051147,1385,576.5)" opacity="1" style="display: block;"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M43,-63.4379997253418 C43,-63.4379997253418 31,-59.6879997253418 31,-59.6879997253418 C31,-59.6879997253418 -299,46.0620002746582 -299,46.0620002746582 C-299,46.0620002746582 -318.5450134277344,53.125 -318.5539855957031,72.81300354003906 C-318.56298828125,91.875 -303.875,99.43800354003906 -303.875,99.43800354003906 C-303.875,99.43800354003906 -171.56199645996094,165.31300354003906 -165.25,168.375 C-158.93800354003906,171.43800354003906 -155.06199645996094,176.25 -152.06199645996094,183.18699645996094 C-149.06199645996094,190.125 -85.75,317.5 -85.75,317.5 C-85.75,317.5 -79.01599884033203,332.56298828125 -59.257999420166016,332.81298828125 C-40,333.06298828125 -32.75,315.5 -32.75,315.5 C-32.75,315.5 72.875,-12.687999725341797 74.43800354003906,-18.187999725341797 C76,-23.687999725341797 77.43800354003906,-29.812000274658203 77.43800354003906,-29.812000274658203 C77.43800354003906,-29.812000274658203 80.09700012207031,-44.6619987487793 68.74400329589844,-55.310001373291016 C56.8129997253418,-66.5 43,-63.4379997253418 43,-63.4379997253418z"></path><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path fill="url(#__lottie_element_29)" fill-opacity="1" d="M0 0"></path></g><g opacity="1" transform="matrix(1,0,0,1,0,0)"><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="0" d=" M43,-63.4379997253418 C43,-63.4379997253418 31,-59.6879997253418 31,-59.6879997253418 C31,-59.6879997253418 -299,46.0620002746582 -299,46.0620002746582 C-299,46.0620002746582 -318.5450134277344,53.125 -318.5539855957031,72.81300354003906 C-318.56298828125,91.875 -303.875,99.43800354003906 -303.875,99.43800354003906 C-303.875,99.43800354003906 -171.56199645996094,165.31300354003906 -165.25,168.375 C-158.93800354003906,171.43800354003906 -155.06199645996094,176.25 -152.06199645996094,183.18699645996094 C-149.06199645996094,190.125 -85.75,317.5 -85.75,317.5 C-85.75,317.5 -79.01599884033203,332.56298828125 -59.257999420166016,332.81298828125 C-40,333.06298828125 -32.75,315.5 -32.75,315.5 C-32.75,315.5 72.875,-12.687999725341797 74.43800354003906,-18.187999725341797 C76,-23.687999725341797 77.43800354003906,-29.812000274658203 77.43800354003906,-29.812000274658203 C77.43800354003906,-29.812000274658203 80.09700012207031,-44.6619987487793 68.74400329589844,-55.310001373291016 C56.8129997253418,-66.5 43,-63.4379997253418 43,-63.4379997253418z"></path></g></g></g></g></g></g></g></svg></span></div></div></div></div><div class="promptDemoCardWrapper__jIqtlC9v"></div></div></div><div class="backBottom__y9cc2Y5o"><svg width="60" height="60" fill="none" xmlns="http://www.w3.org/2000/svg" class="backIcon__pieGFszg"><g filter="url(#backTopIcon_svg__filter0_d_1233_29950)"><rect x="10" y="7" width="40" height="40" rx="20" fill="currentColor" shape-rendering="crispEdges"></rect><rect x="10.5" y="7.5" width="39" height="39" rx="19.5" stroke="#E5E5E5" shape-rendering="crispEdges"></rect><path d="M23.333 24.333l5.724 5.724c.52.52 1.365.52 1.885 0l5.724-5.724" stroke="#333" stroke-width="1.933" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><filter id="backTopIcon_svg__filter0_d_1233_29950" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feflood flood-opacity="0" result="BackgroundImageFix"></feflood><fecolormatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></fecolormatrix><feoffset dy="3"></feoffset><fegaussianblur stdDeviation="5"></fegaussianblur><fecomposite in2="hardAlpha" operator="out"></fecomposite><fecolormatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></fecolormatrix><feblend in2="BackgroundImageFix" result="effect1_dropShadow_1233_29950"></feblend><feblend in="SourceGraphic" in2="effect1_dropShadow_1233_29950" result="shape"></feblend></filter></defs></svg></div><div class="hide__pIaJbjT_"><div class="innerWrapper__TFVbYbnR"><div class="checkAll__dVdEttDR"><div class="wrapper__iDVVNvgE checkbox__t17l7toZ"><div class="icon__mjB_tghI icon__xNkDyFLR default__JdmsLs0M"></div><div class="content__lsB2875U">全选</div></div></div><div class="shareActions__RNWda9if"></div><button class="ebButton__Td1lJFbI ebButton--default__sayeNqW9" type="button" style="--comp-ui-btn-min-width: 0; --comp-ui-btn-icon-gap: 4px;">取消</button></div></div><footer class="footer__du6PsobB footer__PPSho3NC footer--bottomInputStyle__lrrzRTld"><div class="agreements__OhDJYkZ6"><div title="内容由AI生成，仅供参考，请仔细甄别" class="hiddenDialogueDesc__KsceP2qM">内容由AI生成，仅供参考，请仔细甄别</div></div></footer></div><footer class="footer__du6PsobB footer__PPSho3NC footer--centerInputStyle__BDpSoxGh hidden__cSCVXTKm"><div class="agreements__OhDJYkZ6"><div title="内容由AI生成，仅供参考，请仔细甄别" class="hiddenDialogueDesc__KsceP2qM">内容由AI生成，仅供参考，请仔细甄别</div></div></footer></div><div class="sourceContainer__y4L3Ko0b" style="width: 0px;"><div class="SourcesViewer__JDPctLAf" style="width: 336px;"><div class="webListContainer__HxF7O4O3"><div class="header__GbURrLK4"><div class="title__xZrf42vU">参考<span class="total__A_YuXx1n">0</span></div><div class="closeWrap__cqvt9xNh"><svg width="18" height="18" fill="none" xmlns="http://www.w3.org/2000/svg" class="close__RNlI8Bwk"><path d="M13.432 3.302a.9.9 0 011.266 1.266l-.061.069L10.273 9l4.364 4.363.061.069a.9.9 0 01-1.266 1.266l-.069-.062L9 10.273l-4.363 4.364a.9.9 0 01-1.274-1.274L7.726 9 3.363 4.637l-.061-.069a.9.9 0 011.266-1.266l.069.061L9 7.726l4.363-4.363.069-.061z" fill="currentColor"></path></svg></div></div><div class="list__zMNZQX5p"></div></div></div></div></main></div></div></div><script>var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?01e907653ac089993ee83ed00ef9c2f3";
+              var s = document.getElementsByTagName("script")[0];
+              s.parentNode.insertBefore(hm, s);
+            })();</script><script>performance.mark && performance.mark('MARK_LOAD_HTML');</script><script>if ('serviceWorker' in navigator) {
+                window.addEventListener('load', () => {
+                    navigator.serviceWorker
+                        .register('/service-worker.js')
+                        .then(() => {
+                            console.log('Service Worker registered');
+                        })
+                        .catch((error) => {
+                            console.error('Service Worker registration failed:', error);
+                        });
+                });
+            }</script><iframe style="display: none !important;" src="./长笛社演奏_files/saved_resource.html"></iframe><div class="adm-px-tester" style="--size: 10;"></div><div class="adm-px-tester"></div><div style="position: fixed; visibility: hidden; height: auto; width: auto; white-space: nowrap; word-break: keep-all;"></div><div style="position: absolute; top: -9999px; left: -9999px;"></div></body></html>
